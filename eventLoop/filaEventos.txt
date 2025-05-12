@@ -1,0 +1,4 @@
+quando um processo que consome tempo é invocado, a aplicação nao espera que ele termina.
+o processo sinalizaquando tiver pronto pela emissao de um sinal de evento,esse evento é adicionado a fila
+de eventos, qunado alguma funcao tiver interesse nesse evento é quando o evento sai da fila de eventos e é
+executado
